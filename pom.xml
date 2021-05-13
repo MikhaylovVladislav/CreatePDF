@@ -91,6 +91,14 @@
     <artifactId>itextpdf</artifactId>
     <version>5.5.13</version>
 </dependency>
+
+        <dependency>
+<groupId>jakarta.servlet</groupId>
+<artifactId>jakarta.servlet-api</artifactId>
+<version>5.0.0</version>
+<scope>provided</scope>
+</dependency>
+        
         
     </dependencies> 
 </project>
