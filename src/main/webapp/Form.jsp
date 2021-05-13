@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Создание PDF-документа</title>
+<title>Создание PDF-документа </title>
 
 <link rel="stylesheet" href="css/stylepdf.css">
 
@@ -20,7 +20,7 @@
         <label for="Group">Group: </label>
         <input type="text" name="Group" id="Group" value="${Group}">
         <p></p>
-        <label for="FIO">FIO пользователя:     </label>
+        <label for="FIO">FIO:     </label>
         <input type="text" name="FIO" id="FIO" value="${FIO}">
         <p></p>
         <label for="Points">Points: </label>
