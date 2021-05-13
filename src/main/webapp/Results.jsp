@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Результат создания файла PDF</title>
+<title>Результат</title>
 <link rel="stylesheet" href="css/stylepdf.css">
 </head>
 <body>
