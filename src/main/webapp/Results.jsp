@@ -8,7 +8,7 @@
 <link rel="stylesheet" href="css/stylepdf.css">
 </head>
 <body>
-<h1 class="headline">Файл PDF создан. Нажмите на кнопку, чтобы скачать.</h1>
+<h1 class="headline">Файл PDF создан. Вы можете его просмотреть или скачать.</h1>
 <p><strong>Number:</strong> ${Number}</p>
 <p><strong>Group:</strong> ${Group}</p>
 <p><strong>FIO:</strong> ${FIO}</p>
