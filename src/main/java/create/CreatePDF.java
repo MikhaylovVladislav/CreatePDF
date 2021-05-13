@@ -43,7 +43,7 @@ public class CreatePDF {
 		String fontpath =abspath+"/webapps/CreatePDF/fonts/times.ttf";
     	
 		try {	
-			PdfWriter.getInstance(document, new FileOutputStream("/home/mikhaylov/apache-tomcat-10.0.5/webapps/CreatePDF/Check.pdf"));
+			PdfWriter.getInstance(document, new FileOutputStream(filepath));
 		} catch (FileNotFoundException | DocumentException e) {
 			e.printStackTrace();
 		}
