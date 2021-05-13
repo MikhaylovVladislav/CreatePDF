@@ -20,7 +20,7 @@
         <label for="Group">Group: </label>
         <input type="text" name="Group" id="Group" value="${Group}">
         <p></p>
-        <label for="FIO">FIO:     </label>
+        <label for="FIO">FIO пользователя:     </label>
         <input type="text" name="FIO" id="FIO" value="${FIO}">
         <p></p>
         <label for="Points">Points: </label>
